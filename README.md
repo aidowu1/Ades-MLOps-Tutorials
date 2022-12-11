@@ -27,3 +27,6 @@ $ git add .
 
 ### 7. Commit the changes to Git, include the heading and description of the change:
 $ git commit -m "Git Tutorial Part 1" -m "This tutorial demos the basic commands of Git!!"
+
+### 8. Push the commited changes from the local repo to remote repo:
+$ git push -u origin main 
